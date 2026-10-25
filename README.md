@@ -71,14 +71,14 @@ To address **Problem Statement Two**, Argon Fighter implements an architecture d
 ```
                   ┌──────────────────────────────────────────────┐
                   │              GEMINI 4 ARGON                  │
-                  │   Single-Pass 3D World & System Generator   │
+                  │   Single-Pass 3D World & System Generator    │
                   └──────────────────────┬───────────────────────┘
                                          │ Initial Code / Asset Draft
                                          ▼
                   ┌──────────────────────────────────────────────┐
                   │                 1. RENDER                    │
                   │    • 60 Hz Three.js Deterministic Engine     │
-                  │    • Voxel Meshes, Kinematics & Shaders     │
+                  │    • Voxel Meshes, Kinematics & Shaders      │
                   │    • Dynamic 300-2000 Agent Crowd Sim        │
                   │    • Autonomous AI Combat Bot Playtesting    │
                   └──────────────────────┬───────────────────────┘
@@ -87,7 +87,7 @@ To address **Problem Statement Two**, Argon Fighter implements an architecture d
                   ┌──────────────────────────────────────────────┐
                   │                 2. WATCH                     │
                   │  • Gemini 4 Argon Long Video Understanding   │
-                  │  • Ingests continuous canvas video feeds    │
+                  │  • Ingests continuous canvas video feeds     │
                   │  • Correlates frames with real-time logs     │
                   └──────────────────────┬───────────────────────┘
                                          │ Multi-Second Temporal Context
@@ -401,3 +401,9 @@ npm run preview
   <b>Argon Fighter — Warehouse Championship</b><br>
   <i>Built with Google Gemini 4 Argon · Three.js · React 19 · Vite</i>
 </div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+Demo Link: https://argon-fighter.ai.studio/
