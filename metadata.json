@@ -1,0 +1,6 @@
+{
+  "name": "Argon Fighter — Warehouse Championship",
+  "description": "A 3D voxel crowd-brawler set in the Warehouse Championship with responsive combo combat, Overclock Musou finishers, and seamless AI Combat Bot auto-play mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
