@@ -50,9 +50,9 @@ The game is engineered from the ground up to showcase the frontier capabilities 
 
 ---
 
-## 🌌 Addressing Problem Statement Two: More Dimensions
+## 🌌 Addressing Problem Statement
 
-> **Problem Statement Two:**
+> **Problem Statement:**
 > *"Gemini 4 Argon is also SOTA on [long video understanding](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/#workingharder), and its output window lets it generate high-fidelity [3D games and procedural worlds](https://aistudio.google.com/learn/building-3d-games-and-worlds-with-gemini-4-argon) in a single pass. A single pass is only the first draft. Build a system that renders what it made, watches the result, critiques it against the goal, and fixes it in a loop."*
 
 ### The Challenge: Beyond the First Draft
